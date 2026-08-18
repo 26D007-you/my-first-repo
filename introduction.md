@@ -10,3 +10,12 @@
 
 ## もっと詳しく
 さらに知りたい？ [Wikipediaのパンダの記事](https://ja.wikipedia.org/wiki/パンダ) を見てみましょう！
+
+## パンダの一日
+
+```mermaid
+flowchart TD
+    A[🌙 睡眠] --> B[🎋 竹を食べる]
+    B --> C[🧸 遊ぶ]
+    C --> A
+```
