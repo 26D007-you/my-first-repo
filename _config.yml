@@ -1,4 +1,6 @@
 title: 私の百科練習
 description: IT基礎ツールチェーンで公開した最初の公開ウェブページ
-theme: jeky11-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  -jekyll-reremote-theme
 
